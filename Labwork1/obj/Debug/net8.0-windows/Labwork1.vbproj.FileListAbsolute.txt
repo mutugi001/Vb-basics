@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Labwork1\Labwork1\bin\Debug\net8.0-windows\Labwork1.exe
+C:\Users\user\source\repos\Labwork1\Labwork1\bin\Debug\net8.0-windows\Labwork1.deps.json
+C:\Users\user\source\repos\Labwork1\Labwork1\bin\Debug\net8.0-windows\Labwork1.runtimeconfig.json
+C:\Users\user\source\repos\Labwork1\Labwork1\bin\Debug\net8.0-windows\Labwork1.dll
+C:\Users\user\source\repos\Labwork1\Labwork1\bin\Debug\net8.0-windows\Labwork1.pdb
+C:\Users\user\source\repos\Labwork1\Labwork1\obj\Debug\net8.0-windows\Labwork1.Form1.resources
+C:\Users\user\source\repos\Labwork1\Labwork1\obj\Debug\net8.0-windows\Labwork1.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\Labwork1\Labwork1\obj\Debug\net8.0-windows\Labwork1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Labwork1\Labwork1\obj\Debug\net8.0-windows\Labwork1.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Labwork1\Labwork1\obj\Debug\net8.0-windows\Labwork1.AssemblyInfo.vb
+C:\Users\user\source\repos\Labwork1\Labwork1\obj\Debug\net8.0-windows\Labwork1.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Labwork1\Labwork1\obj\Debug\net8.0-windows\Labwork1.dll
+C:\Users\user\source\repos\Labwork1\Labwork1\obj\Debug\net8.0-windows\refint\Labwork1.dll
+C:\Users\user\source\repos\Labwork1\Labwork1\obj\Debug\net8.0-windows\Labwork1.pdb
+C:\Users\user\source\repos\Labwork1\Labwork1\obj\Debug\net8.0-windows\Labwork1.genruntimeconfig.cache
+C:\Users\user\source\repos\Labwork1\Labwork1\obj\Debug\net8.0-windows\ref\Labwork1.dll
+C:\Users\user\source\repos\Labwork1\Labwork1\obj\Debug\net8.0-windows\Labwork1.Form2.resources
